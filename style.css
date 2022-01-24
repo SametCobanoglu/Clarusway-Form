@@ -1,0 +1,22 @@
+.container{
+	margin: 50px;
+	padding: 10px;
+	background-attachment: fixed;
+}
+
+body{
+	border-style: solid;
+	border-width: 7px;
+	border-width: 50%;
+	border-radius: 5px;
+	text-align: left;
+	border-color: rgba(rgb(119, 30, 30), green, blue)
+	width: 40rem;
+
+}
+
+body {
+	background-image: url("https://healthystadia.eu/wp-content/uploads/2017/12/Background-Registration-Form.png");
+	background-color: #cccccc;
+
+     }
